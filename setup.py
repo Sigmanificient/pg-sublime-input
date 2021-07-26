@@ -6,7 +6,7 @@ README: str = (HERE / "README.md").read_text()
 
 setup(
     name="sublinput",
-    version="1.0.0",
+    version="1.0.1",
     description="An input pygame alternative for sublime text users.",
     long_description=README,
     long_description_content_type="text/markdown",
@@ -22,5 +22,5 @@ setup(
     ],
     packages=["sublinput"],
     include_package_data=True,
-    install_requires=[]
+    install_requires=["pygame"]
 )

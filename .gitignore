@@ -4,7 +4,10 @@
 # Package
 dist
 build
-*-egg
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
 
 # Python
 __pycache__
