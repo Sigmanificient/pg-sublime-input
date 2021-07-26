@@ -1,0 +1,11 @@
+# PyCharm
+.idea
+
+# Package
+dist
+build
+*-egg
+
+# Python
+__pycache__
+venv
