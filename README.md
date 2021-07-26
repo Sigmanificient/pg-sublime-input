@@ -25,7 +25,8 @@ You only needs to input the package then use the default input function as usual
 ```py
 import sublinput
 
-n = int(input("Enter a number: "))
+val = int(input("Enter a number: "))
+print(val)
 ```
 
 When an input function is called, the following windows will appear, with title being the input message.
