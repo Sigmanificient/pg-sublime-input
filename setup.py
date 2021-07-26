@@ -22,5 +22,5 @@ setup(
     ],
     packages=["sublinput"],
     include_package_data=True,
-    install_requires=[]
+    install_requires=["pygame"]
 )
