@@ -4,7 +4,7 @@ from sublinput.ui import InputBoxScreen
 import builtins
 
 
-def new_input(__prompt: str ='') -> str:
+def new_input(__prompt: str = '') -> str:
     """A function that creates a new input box screen and return it's value."""
     with InputBoxScreen() as input_box:
         return input_box(__prompt)
