@@ -1,5 +1,6 @@
 # Sublinput
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Sigmanificient/pg-sublime-input/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Sigmanificient/pg-sublime-input/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/Sigmanificient/pg-sublime-input/badges/build.png?b=master)](https://scrutinizer-ci.com/g/Sigmanificient/pg-sublime-input/build-status/master)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Sigmanificient/pg-sublime-input)
 ![Lines of code](https://img.shields.io/tokei/lines/github/Sigmanificient/pg-sublime-input)
 
@@ -15,7 +16,6 @@ or
 ```bash
 python -m pip install sublinput
 ```
-
 
 ## Usage
 
