@@ -3,7 +3,7 @@
 [![Build Status](https://scrutinizer-ci.com/g/Sigmanificient/pg-sublime-input/badges/build.png?b=master)](https://scrutinizer-ci.com/g/Sigmanificient/pg-sublime-input/build-status/master)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Sigmanificient/pg-sublime-input)
 ![Lines of code](https://img.shields.io/tokei/lines/github/Sigmanificient/pg-sublime-input)
-
+![PyPI - Downloads](https://img.shields.io/pypi/dm/sublinput)
 
 A sublime pygame ui as alternative to unsupported python input built-in.
 
